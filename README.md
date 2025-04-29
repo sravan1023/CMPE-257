@@ -39,12 +39,12 @@ jupyter notebook
 4. Run the notebooks step-by-step:
 
 ```
-- Data Preprocessing
-- EDA
-- Feature Engineering
-- Model
-- Visualization
-- Simulation Engine
+- 1_Data Preprocessing
+- 2_EDA
+- 3_Feature Engineering
+- 4_Model
+- 5_Visualization
+- 6_Simulation_Engine
 ```
 
 ### Team Members:

@@ -46,3 +46,11 @@ jupyter notebook
 - Visualization
 - Simulation Engine
 ```
+
+### Team Members:
+
+1. Sravan
+2. Brian Lam
+3. Shrivaikunth Krishnakumar
+4. Sai Chetan
+5. Hanlin Chen

@@ -1,0 +1,8 @@
+fastf1
+numpy
+pandas
+scikit-learn
+seaborn
+matplotlib
+joblib
+tabulate

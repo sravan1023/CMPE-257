@@ -1,6 +1,6 @@
-# CMPE-257
+# F1 Simulation Engine Project
 
-## Welcome to the repository of our CMPE-257 course project.
+## Welcome to the repository of our F1 Simulation Engine project.
 This project involves building, training evaluation machine learning model for predictive analysis.
 
 
